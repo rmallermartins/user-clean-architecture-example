@@ -12,7 +12,9 @@
   },
   "author": "Rodrigo Maller Martins",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "sequelize": "^5.19.2"
+  },
   "devDependencies": {
     "@babel/cli": "^7.6.2",
     "@babel/core": "^7.6.2",
